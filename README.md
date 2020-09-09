@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryclenio&show_icons=true)
+![Rafaela GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafatillmann&show_icons=true)
