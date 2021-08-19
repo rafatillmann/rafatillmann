@@ -6,8 +6,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafatillmann&layout=compact&langs_count=7&theme=react"/>
 </div>
 
-<!-- <div align="right">
-    <img height="150px" src="https://25.media.tumblr.com/3447a5e5c68b270a4d3d39d578ccfefa/tumblr_mroahxmzCY1rka58bo1_500.gif"
+---
+  
+
+I'm currently learning Python, Java and JavaScript
+  
+<!-- <div>
+    <img height="150px" src="http://31.media.tumblr.com/96fbb243107e463dff7a4b8d492215a7/tumblr_n1jq9mEa0W1sujz4so2_500.gif"
         alt="Studio Ghibli">
 </div> -->
 
