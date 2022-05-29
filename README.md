@@ -25,7 +25,7 @@
 
 <br>
     
-<div align="center">
+<!-- <div align="center">
 <img height="180em" src="https://64.media.tumblr.com/a2c7267b99f34f1e9fbe2ca65f801ae1/3e6a8ea646afc9c3-7e/s540x810/b8533fb27d00270ad68233695f22c48f62a96f14.gifv" />
-</div>
+</div> -->
     
