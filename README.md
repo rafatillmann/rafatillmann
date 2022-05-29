@@ -23,6 +23,5 @@
         <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
         <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />  
     </div>
-    
     <img height="150em" src="http://31.media.tumblr.com/96fbb243107e463dff7a4b8d492215a7/tumblr_n1jq9mEa0W1sujz4so2_500.gif" />
 </div> 
