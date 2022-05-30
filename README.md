@@ -23,9 +23,7 @@
     <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
     <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />  
 </div>
-
-<br>
-   
+    
 ---
     
   <a href="https://instagram.com/rafa_tillmann" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
