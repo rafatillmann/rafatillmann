@@ -1,7 +1,7 @@
 ### Hi there, I'm Rafaela 
 
 
-<p>I'm currently learning React Native, Java and Kotlin </p>
+I'm an undergraduate Information Systems student at UFSC and currently I'm learning React Native, Java and Kotlin.
 
 <br>
 
