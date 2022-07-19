@@ -1,7 +1,8 @@
 ### Hi there, I'm Rafaela 
 
 
-I'm an undergraduate Information Systems student at UFSC and currently I'm learning React Native, Java and Kotlin.
+I'm an undergraduate Information Systems student at UFSC and Full Stack Developer at Bridge
+Currently I'm learning React Native, Java and Kotlin.
 
 <br>
 
