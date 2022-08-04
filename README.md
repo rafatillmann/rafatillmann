@@ -11,9 +11,9 @@ Currently I'm learning React Native, Java and Kotlin.
 <div>
     <a href="https://github.com/rafatillmann">
         <img height="180em"
-            src="https://github-readme-stats.vercel.app/api?username=rafatillmann&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" />
+            src="https://github-readme-stats.vercel.app/api?username=rafatillmann&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
         <img height="180em"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafatillmann&layout=compact&langs_count=7&theme=midnight-purple" />
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafatillmann&layout=compact&langs_count=7&theme=tokyonight" />
 </div>
 
 <br>
