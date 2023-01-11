@@ -4,7 +4,7 @@
 I'm an undergraduate Information Systems student at UFSC and Full Stack Developer at Bridge.
 <br>
 <br>
-Currently I'm learning React Native, Java and Kotlin.
+Currently I'm learning React, Java and Kotlin.
 
 <br>
 
