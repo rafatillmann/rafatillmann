@@ -1,10 +1,8 @@
 ### Hi there, I'm Rafaela 
 
 
-I'm an undergraduate Information Systems student at UFSC and Full Stack Developer at Bridge.
-<br>
-<br>
-Currently I'm learning React, Java and Kotlin.
+I'm an undergraduate Information Systems student at UFSC and Full Stack Developer at Bridge. I'm an enthusiast in the field of distributed systems, currently, working to improve my knowledgement in the area. Additionally, I have experience with the following languages and tools :)
+
 
 <br>
 
